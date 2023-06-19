@@ -1,12 +1,13 @@
-# KakaoTalkAdBlock
+# KakaoTalkAdBlock - .NET Fixed Version
 
-AdBlocker for KakaoTalk Windows client.
+AdBlocker for the Windows client of the chat software "KakaoTalk".
 
 ## Download
 
-- Download [publish/setup.exe](https://github.com/blurfx/KakaoTalkAdBlock/blob/master/publish/setup.exe)
-- Run `setup.exe` to install
-- After installation, run `KakaoTalkAdBlock` from the Start menu or desktop 
+- Download the installer [setup.exe](https://github.com/LokeYourC3PH/KakaoTalkAdBlock-NETFIX/releases)
+- Run `setup.exe` in order to install the Adblocker.
+- After the installation, run `KakaoTalkAdBlock` from the Start Menu or Desktop.
+- You may also register the software to start automatically when your System starts. 
 
 ### Requirements
 
